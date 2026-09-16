@@ -12,7 +12,7 @@ Minh Khoa
 
 ## 1. Block Diagram
 ![Sơ đồ khối Async FIFO](./image/async_FIFO.drawio.png)
-![Sơ đồ khối khối ghi và đọc](./image/pointer_and_flag.drawio.png)
+![Sơ đồ khối khối ghi và đọc](./image/Pointer_and_flag.drawio.png)
 ![Sơ đồ khối bin to gray](./image/bin2gray.drawio.png)
 ## 2. Interface Signals
 
