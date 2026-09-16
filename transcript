@@ -1,0 +1,37 @@
+# vsim FIFO_tb 
+# Start time: 12:03:08 on Aug 26,2026
+# Loading work.FIFO_tb
+# Loading work.FIFO
+# Loading work.two_ff_sync
+# Loading work.FIFO_mem
+# Loading work.rptr_empty
+# Loading work.wptr_full
+add wave -position insertpoint sim:/FIFO_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Break key hit
+run -all
+# ** Note: $finish    : tb/tb_Top.v(73)
+#    Time: 610 ns  Iteration: 0  Instance: /FIFO_tb
+# 1
+# Break in Module FIFO_tb at tb/tb_Top.v line 73
+# End time: 12:05:56 on Aug 26,2026, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 0

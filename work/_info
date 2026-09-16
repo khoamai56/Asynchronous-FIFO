@@ -1,0 +1,146 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/run/media/legion/New Volume/Khoa_ni_chan/Verilog/FIFO_asynchronous
+vFIFO
+Z0 !s110 1787720579
+!i10b 1
+!s100 H`[FX5=11N@:QeOSg>H=P0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1TJ2GKYlA@IGZ3gKjGAo13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Khoa_ni_chan/Verilog/FIFO_asynchronous
+w1787720556
+8rtl/Top.v
+Frtl/Top.v
+!i122 2
+L0 1 59
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1787720579.000000
+!s107 tb/tb_Top.v|rtl/wptr_full.v|rtl/Top.v|rtl/rptr_empty.v|rtl/FIFO_mem.v|rtl/2_ff_sync.v|
+Z6 !s90 rtl/2_ff_sync.v|rtl/FIFO_mem.v|rtl/rptr_empty.v|rtl/Top.v|rtl/wptr_full.v|tb/tb_Top.v|
+!i113 1
+Z7 tCvgOpt 0
+n@f@i@f@o
+vFIFO_mem
+R0
+!i10b 1
+!s100 zc]Q2Fn7Y0CdCggZIW?9>1
+R1
+IX^e];Gj7^I5VW?CSjLl]f2
+R2
+R3
+w1786104218
+8rtl/FIFO_mem.v
+Frtl/FIFO_mem.v
+!i122 2
+L0 1 17
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb/tb_Top.v|rtl/wptr_full.v|rtl/Top.v|rtl/rptr_empty.v|rtl/FIFO_mem.v|rtl/2_ff_sync.v|
+R6
+!i113 1
+R7
+n@f@i@f@o_mem
+vFIFO_tb
+R0
+!i10b 1
+!s100 =T6FlMmVi9H2jSmifeg_93
+R1
+InM=_UfnKLa7_NfcoFG9d31
+R2
+R3
+w1787719825
+8tb/tb_Top.v
+Ftb/tb_Top.v
+!i122 2
+L0 3 74
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+n@f@i@f@o_tb
+vrptr_empty
+R0
+!i10b 1
+!s100 6KebZ?][Tgk=Qe:H@gEAC0
+R1
+I:z@YTJABE:z4CHRLhVU];1
+R2
+R3
+w1787720092
+8rtl/rptr_empty.v
+Frtl/rptr_empty.v
+!i122 2
+L0 1 39
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vtwo_ff_sync
+R0
+!i10b 1
+!s100 S9BJ=?D28a5W<@1=laAL[1
+R1
+I4X<E^;4RRP5[WVaSU>ABk3
+R2
+R3
+w1786274317
+8rtl/2_ff_sync.v
+Frtl/2_ff_sync.v
+!i122 2
+L0 1 16
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vwptr_full
+R0
+!i10b 1
+!s100 6Z>fF;hW][e?]L^Xb?<ih2
+R1
+I2Rl1Q0ZSW^E4h5m^5NkZd2
+R2
+R3
+w1787713035
+8rtl/wptr_full.v
+Frtl/wptr_full.v
+!i122 2
+L0 1 40
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
