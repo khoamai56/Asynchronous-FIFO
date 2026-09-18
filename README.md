@@ -11,12 +11,12 @@ Minh Khoa
 # Architecture
 
 ## 1. Block Diagram
-1. Khối FIFO top
-![Sơ đồ khối Async FIFO](./image/async_FIFO.drawio.png)
-2. Khối Ghi và đọc
-![Sơ đồ khối khối ghi và đọc](./image/Pointer_and_flag.drawio.png)
-3. Khối bin to gray
-![Sơ đồ khối bin to gray](./image/bin2gray.drawio.png)
+1. FIFO Top module:
+![FIFO Top module](./image/async_FIFO.drawio.png)
+2. Write and Read module:
+![Write and Read module](./image/Pointer_and_flag.drawio.png)
+3. Bin to gray module:
+![Bin to gray module](./image/bin2gray.drawio.png)
 ## 2. Interface Signals
 
 | Signal Name | Direction | Width | Description                            |
